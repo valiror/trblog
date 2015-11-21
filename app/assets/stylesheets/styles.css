@@ -1,0 +1,16 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+body{
+	background-color:#234567;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.btn-primary {
+	background-color: orange;
+
+}
+
